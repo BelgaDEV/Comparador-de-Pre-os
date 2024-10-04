@@ -113,14 +113,3 @@ form button:hover {
     margin-bottom: 5px;
     font-size: 1.2em;
 }
-
-.footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color:  var(--text-color);
-}
-
-.footer-text {
-    font-size: 1.3rem;
-}
